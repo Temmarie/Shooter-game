@@ -24,21 +24,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/temmarie/todo-list-app/feature">
+  <a href="https://github.com/Temmarie/Shooter-game/tree/feature">
     <img src="https://github.com/Temmarie/Todo-list-app/blob/feature/src/images/JS.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Todo List</h3>
+  <h3 align="center">Shooter Game</h3>
 
   <p align="center">
-    This is the todolist app Project from the Javascript section of the Microverse curriculum.
+    This is a Shooter game from the Javascript section of the Microverse curriculum.
     <br />
-    <a href="https://github.com/Temmarie/Todo-List-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Temmarie/Shooter-game"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Temmarie/Todo-List-App/issues">Report Bug</a>
+    <a href="https://github.com/Temmarie/Shooter-game/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Temmarie/Todo-List-App/issues">Request Feature</a>
+    <a href="https://github.com/Temmarie/Shooter-game/issues">Request Feature</a>
   </p>
 </p>
 
@@ -51,11 +51,8 @@
 * [Acknowledgements](#acknowledgements)
 * [How it works](#How-it-works)
 
-# Todo-List-App Testing
-A simple todo list app tested with Jest.
-The aim of this project was to learn how to test JavaScript modules/functions.
-
-![image](https://github.com/Temmarie/Todo-List-App/blob/feature/src/images/todoscreen.png)
+# Shooter Game
+An RPG Shooter Game built with JavaScript and tested with Jest.
 
 
 ## Built With
@@ -66,6 +63,7 @@ The aim of this project was to learn how to test JavaScript modules/functions.
 - Bootstrap
 - Vscode
 - Eslint
+- Jest
 
 
 ### Setup
@@ -76,7 +74,7 @@ To test the Library locally, you will need to clone the repository, navigate to 
 
 Clone the repository and follow the steps to run the app.
 ```
- git clone https://github.com/Temmarie/Todo-list-app.git
+ git clone https://github.com/Temmarie/Shooter-game.git
 
 ```
 
@@ -105,13 +103,13 @@ Give a ⭐️ if you like this project!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/temmarie/todo-list-app.svg?style=flat-square
-[contributors-url]: https://github.com/temmarie/todo-list-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/temmarie/todo-list-app.svg?style=flat-square
-[forks-url]: https://github.com/temmarie/todo-list-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/temmarie/todo-list-app.svg?style=flat-square
-[stars-url]: https://github.com/temmarie/todo-list-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/temmarie/todo-list-app.svg?style=flat-square
-[issues-url]: https://github.com/temmarie/todo-list-app/issues
+[contributors-shield]: https://img.shields.io/github/contributors/temmarie/shooter-game.svg?style=flat-square
+[contributors-url]: https://github.com/temmarie/shooter-game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/temmarie/shooter-game.svg?style=flat-square
+[forks-url]: https://github.com/temmarie/shooter-game/network/members
+[stars-shield]: https://img.shields.io/github/stars/temmarie/shooter-game.svg?style=flat-square
+[stars-url]: https://github.com/temmarie/shooter-game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/temmarie/shooter-game.svg?style=flat-square
+[issues-url]: https://github.com/temmarie/shooter-game/issues
 
 
