@@ -46,7 +46,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Contact](#Authors)
 * [Acknowledgements](#acknowledgements)
 * [How it works](#How-it-works)
