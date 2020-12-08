@@ -11,6 +11,7 @@ import sprPlayer from '../assets/sprPlayer.png';
 import sndExplode0 from '../assets/sndExplode0.wav';
 import sndExplode1 from '../assets/sndExplode1.wav';
 import sndLaser from '../assets/sndLaser.wav';
+// import Player from '../js/entities';
 
 export default class SceneMain extends Phaser.Scene {
   constructor() {
@@ -91,6 +92,13 @@ export default class SceneMain extends Phaser.Scene {
     ],
     laser: this.sound.add("sndLaser")
   };
+
+  this.player = new Player(
+    this,
+    this.game.config.width * 0.5,
+    this.game.config.height * 0.5,
+    "sprPlayer"
+  ); 
 
   }
   update() {
