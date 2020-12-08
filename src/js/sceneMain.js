@@ -1,8 +1,8 @@
-import Phaser from '../js/phaser.min';
+import Phaser from '../phaser.min';
 
 export default class SceneMain extends Phaser.Scene {
   constructor() {
-      super('SceneMain');
+      super( {key: 'SceneMain'});
   }
   preload()
   {
