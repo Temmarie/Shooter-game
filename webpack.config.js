@@ -17,7 +17,7 @@ module.exports = {
         type: 'asset/resource',
       },
       {
-        test: /\.wav$/i,
+        test: /\.(wav|mpe?g)$/i,
         use: 'file-loader'
       }
     ],
