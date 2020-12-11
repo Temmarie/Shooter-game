@@ -1,25 +1,28 @@
 const path = require('path');
 
 module.exports = {
+  mode: 'development',
   entry: './src/index.js',
   output: {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
   },
-   module: {
+  module: {
     rules: [
       {
-        test: /\.css$/i,
-        use: ['style-loader', 'css-loader'],
+        test: /\.css$/,
+        use: [
+          'style-loader',
+          'css-loader',
+        ],
       },
       {
-        test: /\.(png|svg|jpg|jpeg|gif)$/i,
-        type: 'asset/resource',
+        test: /\.(png|svg|jpg|jpeg|gif|ogg|mp3|wav|mpe?g)$/,
+        use: [
+          'file-loader',
+        ],
       },
-      {
-        test: /\.(wav|mpe?g)$/i,
-        use: 'file-loader'
-      }
     ],
   },
+  watch: true,
 };
