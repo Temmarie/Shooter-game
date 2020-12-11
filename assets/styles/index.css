@@ -4,7 +4,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #bdb4b3;
+  background: url(../images/baseBg.png);
 }
 
 input {

@@ -7,7 +7,7 @@ import Score from '../src/js/score';
 
 const config = {
   type: Phaser.WEBGL,
-  width: 640,
+  width: 670,
   height: 640,
   backgroundColor: 'black',
   physics: {

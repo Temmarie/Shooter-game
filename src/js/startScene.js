@@ -31,7 +31,7 @@ export default class StartScene extends Phaser.Scene {
     this.textTitle = this.add.text(
       this.game.config.width * 0.5,
       64,
-      "SpaceX Shooter",
+      "Space Wars",
       {
         fontFamily: 'monospace',
         fontSize: 32,
