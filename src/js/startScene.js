@@ -7,13 +7,12 @@ import Background from '../../assets/images/baseBg.png';
 
 export default class StartScene extends Phaser.Scene {
   constructor() {
-      super({ key: 'StartScene'});
+    super({ key: 'StartScene' });
   }
 
-  preload()
-  {
-    //load our images and sounds
-    //this.load.images('key', path)
+  preload() {
+    // load our images and sounds
+    // this.load.images('key', path)
     this.load.image('sprBtnPlay', playBtn);
     this.load.image('bgStart', Background);
     this.load.image('ldBtn', leadBtn);
@@ -31,7 +30,7 @@ export default class StartScene extends Phaser.Scene {
     this.textTitle = this.add.text(
       this.game.config.width * 0.5,
       64,
-      "Space Wars",
+      'Space Wars',
       {
         fontFamily: 'monospace',
         fontSize: 32,

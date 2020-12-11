@@ -1,5 +1,5 @@
 /* eslint-disable max-classes-per-file */
-import { Entity } from '../content/entity';
+import { Entity } from './entity';
 
 class Player extends Entity {
   constructor(scene, x, y) {

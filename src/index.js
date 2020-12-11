@@ -1,8 +1,8 @@
-import Phaser from '../src/phaser.min';
-import StartScene from '../src/js/startScene';
-import SceneMain from '../src/js/sceneMain';
-import GameOver from '../src/js/gameOver';
-import Score from '../src/js/score';
+import Phaser from './phaser.min';
+import StartScene from './js/startScene';
+import SceneMain from './js/sceneMain';
+import GameOver from './js/gameOver';
+import Score from './js/score';
 
 
 const config = {
@@ -20,7 +20,7 @@ const config = {
     StartScene,
     SceneMain,
     GameOver,
-    Score,  
+    Score,
   ],
   pixelArt: true,
   roundPixels: true,
@@ -28,5 +28,3 @@ const config = {
 
 // eslint-disable-next-line no-unused-vars
 const game = new Phaser.Game(config);
-
-
