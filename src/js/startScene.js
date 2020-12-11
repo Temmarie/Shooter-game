@@ -53,7 +53,7 @@ export default class StartScene extends Phaser.Scene {
 
     this.btnPlay.on('pointerdown', () => {
       this.sfx.btn.play();
-      this.scene.start('MainScene');
+      this.scene.start('SceneMain');
     }, this);
 
 

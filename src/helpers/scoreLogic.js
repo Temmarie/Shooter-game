@@ -5,7 +5,7 @@ const apiInfo = {
   headers: {
     'Content-Type': 'application/json',
   },
-  gameID: 'dHMHYQmS1osdkH8YP25A',
+  gameID: 'dHMHYQmS1osdkH8YP25As',
 };
 
 const getPlayerName = () => {
