@@ -47,9 +47,14 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
+* [Game Design](#game-design)
+* [Getting Started](#getting-started)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Tests](#tests)
 * [Contact](#Authors)
+* [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
-* [How it works](#How-it-works)
 
 # Shooter Game
 An RPG Shooter Game built with JavaScript and tested with Jest.
@@ -57,26 +62,41 @@ An RPG Shooter Game built with JavaScript and tested with Jest.
 
 ## Built With
 
-- Html,
-- CSS,
-- JavaScript
-- Bootstrap
-- Vscode
-- Eslint
-- Jest
+* [Phaser](http://phaser.io/)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [WebPack](https://webpack.js.org/)
+* [Jest](https://jestjs.io/docs/en/getting-started)
 
+<hr>
 
-### Setup
+## Game Design
+The Main Scene is built so that a user should kill as many enemy ships as possible before they kill him or invade his zone. The main character ship has 3 extra lives to kill as many enemy ships as possible.
 
-To test the Library locally, you will need to clone the repository, navigate to it's containing directory, and run the following commands:
+<!-- GETTING STARTED -->
+## Getting Started
 
+To get a local copy up and running follow these simple steps.
 
+### Prerequisites
+- Make sure your machine has `node` and `npm` packages installed.
 
-Clone the repository and follow the steps to run the app.
+### Installation
+ 
+1. Clone the repo
+```sh
+git clone https://github.com/Temmarie/Shooter-Game.git
 ```
- git clone https://github.com/Temmarie/Shooter-game.git
+2. Open with your favorite text editor.
+3. run `npm install` to install all dependencies required for the app.
+4. If you have a live server extension installed, open the `index.html` file in the `dist` folder with the live server, if not install a live server extension and do as above.
+5. Play the game and enjoy!!!!
 
-```
+
+### Tests
+- Run `yarn test` to see all available tests associated with this project.
+
 
 ## Author
 👤 **Author**
@@ -100,6 +120,11 @@ Contributions, issues and feature requests are welcome! Start by:
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgements
+- Special thanks to [Microverse](https://www.microverse.
+- I also want to thank my wonderful friend who helped me quite a lot with this project. 
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
