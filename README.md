@@ -116,6 +116,7 @@ git clone https://github.com/Temmarie/Shooter-Game.git
 3. run `npm install` to install all dependencies required for the app.
 4. If you have a live server extension installed, open the `index.html` file in the `dist` folder with the live server, if not install a live server extension and do as above.
 5. Play the game and enjoy!!!!
+6. NB: In the GameOver screen, the letters 'A' and 'D' used for the navigation will not work when filling the form.
 
 
 ### Tests
