@@ -1,5 +1,5 @@
 /* eslint-disable max-classes-per-file */
-import Phaser from '../phaser.min';
+import Phaser from '../phaser';
 
 class Entity extends Phaser.GameObjects.Sprite {
   constructor(scene, x, y, key) {

@@ -5,7 +5,7 @@ const apiInfo = {
   headers: {
     'Content-Type': 'application/json',
   },
-  gameID: '88Rte0h1UgvXxeV6E5S7',
+  gameID: 'PzQTUJBCbHuDQkzncZOh',
 };
 
 const getPlayerName = () => {
@@ -45,7 +45,7 @@ export const handleScore = async (scene, gameScore) => {
 };
 
 export const restartGame = (scene) => {
-  scene.scene.start('SceneMain');
+  scene.scene.start('MainScene');
   deleteNameInput();
 };
 

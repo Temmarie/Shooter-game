@@ -1,13 +1,13 @@
-import Phaser from './phaser.min';
-import StartScene from './js/startScene';
-import SceneMain from './js/sceneMain';
-import GameOver from './js/gameOver';
-import Score from './js/score';
+import Phaser from './phaser';
+import StartScreen from './scenes/startScreen';
+import MainScene from './scenes/mainScene';
+import GameOver from './scenes/gameOver';
+import Score from './scenes/score';
 
 const config = {
   type: Phaser.WEBGL,
-  width: 670,
-  height: 640,
+  width: 600,
+  height: 550,
   backgroundColor: 'black',
   physics: {
     default: 'arcade',
@@ -16,8 +16,8 @@ const config = {
     },
   },
   scene: [
-    StartScene,
-    SceneMain,
+    StartScreen,
+    MainScene,
     GameOver,
     Score,
   ],

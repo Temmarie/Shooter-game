@@ -71,9 +71,33 @@ An RPG Shooter Game built with JavaScript and tested with Jest.
 
 <hr>
 
-## Game Design
-The Main Scene is built so that a user should kill as many enemy ships as possible before they kill him or invade his zone. The main character ship has 3 extra lives to kill as many enemy ships as possible.
 
+## Game Design
+The Main Scene is built so that a user should kill as many enemy ships as possible before they kill him or invade his zone.
+
+<img src="./assets/images/sprPlayer.png" alt="Logo" width="30" height="30"> <br>
+This is the main character ship, and he has 3 extra lives to kill as many enemy ships as possible.
+<br>
+<br>
+
+<img src="./assets/images/sprEnemy0.png" alt="Logo" width="30" height="30"> <br>
+This are the enemy ships trying to destroy you at all cost.
+
+<br>
+<br>
+
+<img src="./assets/images/sprLaserPlayer.png" alt="Logo" width="5" height="30"> &nbsp;&nbsp; Player laser used to destroy enemy ships.
+
+<br>
+<br>
+
+<img src="./assets/images/sprLaserEnemy.png" alt="Logo" width="5" height="30"> &nbsp;&nbsp; Enemy laser used to destroy main character's ship.
+
+<br>
+<br>
+
+<img src="./assets/images/sprShieldTile.png" alt="Logo" width="10" height="10"> &nbsp;&nbsp; Tiles used to build main character's shield. 
+<hr>
 <!-- GETTING STARTED -->
 ## Getting Started
 
