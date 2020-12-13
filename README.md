@@ -56,7 +56,7 @@
 * [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
-# Shooter Game
+# Shooter Games
 An RPG Shooter Game built with JavaScript and tested with Jest.
 
 

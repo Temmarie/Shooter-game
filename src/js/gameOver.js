@@ -14,11 +14,9 @@ export default class GameOver extends Phaser.Scene {
     this.load.image('btnUP', buttonUp);
   }
 
-
   init(data) {
     this.gameScore = data.gameScore;
   }
-
 
   create() {
     this.add.image(260, 400, 'GOendBG');

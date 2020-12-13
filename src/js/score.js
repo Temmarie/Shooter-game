@@ -27,7 +27,6 @@ export default class Score extends Phaser.Scene {
       },
     ).setOrigin(0.5);
 
-
     this.returnButton = this.add.sprite(
       this.game.config.width * 0.5,
       this.game.config.height * 0.9,

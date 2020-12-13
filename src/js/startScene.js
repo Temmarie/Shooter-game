@@ -4,15 +4,12 @@ import leadBtn from '../../assets/images/leadersBoardButton.png';
 import sound from '../../assets/audio/sndBtn.wav';
 import Background from '../../assets/images/baseBg.png';
 
-
 export default class StartScene extends Phaser.Scene {
   constructor() {
     super({ key: 'StartScene' });
   }
 
   preload() {
-    // load our images and sounds
-    // this.load.images('key', path)
     this.load.image('sprBtnPlay', playBtn);
     this.load.image('bgStart', Background);
     this.load.image('ldBtn', leadBtn);
@@ -55,7 +52,6 @@ export default class StartScene extends Phaser.Scene {
       this.scene.start('SceneMain');
     }, this);
 
-
     this.leaderBoard = this.add.sprite(
       this.game.config.width * 0.5,
       this.game.config.height * 0.6,
@@ -67,7 +63,6 @@ export default class StartScene extends Phaser.Scene {
       this.sfx.btn.play();
     }, this);
 
-
     this.leaderBoard.on('pointerdown', () => {
       this.sfx.btn.play();
       this.scene.start('Score');
@@ -76,7 +71,7 @@ export default class StartScene extends Phaser.Scene {
     const style = {
       fontFamily: 'monospace',
       fontSize: 16,
-      color: 'grey',
+      color: '#aaf',
       align: 'center',
     };
     const instruction1 = 'Use A and D to move your plane left or right.';

@@ -12,7 +12,6 @@ import { Player, PlayerLaser } from '../content/player';
 import { Enemy, EnemyLaser } from '../content/enemy';
 import { ShieldTile, Explosion } from '../content/entity';
 
-
 export default class SceneMain extends Phaser.Scene {
   constructor() {
     super({ key: 'SceneMain' });
@@ -57,7 +56,6 @@ export default class SceneMain extends Phaser.Scene {
       laserEnemy: this.sound.add('sndLaserEnemy'),
     };
 
-
     this.anims.create({
       key: 'sprEnemy0',
       frames: this.anims.generateFrameNumbers('sprEnemy0'),
@@ -71,7 +69,6 @@ export default class SceneMain extends Phaser.Scene {
       frameRate: 15,
       repeat: 0,
     });
-
 
     this.textScore = this.add.text(
       12,
@@ -209,7 +206,6 @@ export default class SceneMain extends Phaser.Scene {
       );
     }
   }
-
 
   addScore(amount) {
     this.passingData.score += amount;

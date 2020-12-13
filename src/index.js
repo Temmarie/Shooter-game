@@ -4,7 +4,6 @@ import SceneMain from './js/sceneMain';
 import GameOver from './js/gameOver';
 import Score from './js/score';
 
-
 const config = {
   type: Phaser.WEBGL,
   width: 670,

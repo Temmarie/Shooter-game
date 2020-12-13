@@ -10,7 +10,7 @@
 /******/ 	var __webpack_modules__ = ({
 
 /***/ "./assets/audio/sndBtn.wav":
-/*!*********************************!*
+/*!*********************************!*\
   !*** ./assets/audio/sndBtn.wav ***!
   \*********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -21,7 +21,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/audio/sndExplode.wav":
-/*!*************************************!*
+/*!*************************************!*\
   !*** ./assets/audio/sndExplode.wav ***!
   \*************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -32,7 +32,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/audio/sndLaserEnemy.wav":
-/*!****************************************!*
+/*!****************************************!*\
   !*** ./assets/audio/sndLaserEnemy.wav ***!
   \****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -43,7 +43,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/audio/sndLaserPlayer.wav":
-/*!*****************************************!*
+/*!*****************************************!*\
   !*** ./assets/audio/sndLaserPlayer.wav ***!
   \*****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -54,7 +54,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/baseBg.png":
-/*!**********************************!*
+/*!**********************************!*\
   !*** ./assets/images/baseBg.png ***!
   \**********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -65,7 +65,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/buttonUp.png":
-/*!************************************!*
+/*!************************************!*\
   !*** ./assets/images/buttonUp.png ***!
   \************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -76,7 +76,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/leadersBoardButton.png":
-/*!**********************************************!*
+/*!**********************************************!*\
   !*** ./assets/images/leadersBoardButton.png ***!
   \**********************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -87,7 +87,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/playButton.png":
-/*!**************************************!*
+/*!**************************************!*\
   !*** ./assets/images/playButton.png ***!
   \**************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -98,7 +98,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/return.png":
-/*!**********************************!*
+/*!**********************************!*\
   !*** ./assets/images/return.png ***!
   \**********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -109,7 +109,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/sprEnemy0.png":
-/*!*************************************!*
+/*!*************************************!*\
   !*** ./assets/images/sprEnemy0.png ***!
   \*************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -120,7 +120,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/sprExplosion.png":
-/*!****************************************!*
+/*!****************************************!*\
   !*** ./assets/images/sprExplosion.png ***!
   \****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -131,7 +131,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/sprLaserEnemy.png":
-/*!*****************************************!*
+/*!*****************************************!*\
   !*** ./assets/images/sprLaserEnemy.png ***!
   \*****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -142,7 +142,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/sprLaserPlayer.png":
-/*!******************************************!*
+/*!******************************************!*\
   !*** ./assets/images/sprLaserPlayer.png ***!
   \******************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -153,7 +153,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/sprPlayer.png":
-/*!*************************************!*
+/*!*************************************!*\
   !*** ./assets/images/sprPlayer.png ***!
   \*************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -164,7 +164,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./assets/images/sprShieldTile.png":
-/*!*****************************************!*
+/*!*****************************************!*\
   !*** ./assets/images/sprShieldTile.png ***!
   \*****************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -175,7 +175,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/content/enemy.js":
-/*!******************************!*
+/*!******************************!*\
   !*** ./src/content/enemy.js ***!
   \******************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -186,7 +186,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/content/entity.js":
-/*!*******************************!*
+/*!*******************************!*\
   !*** ./src/content/entity.js ***!
   \*******************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -197,7 +197,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/content/player.js":
-/*!*******************************!*
+/*!*******************************!*\
   !*** ./src/content/player.js ***!
   \*******************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -208,7 +208,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/helpers/buttonHelpers.js":
-/*!**************************************!*
+/*!**************************************!*\
   !*** ./src/helpers/buttonHelpers.js ***!
   \**************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -219,7 +219,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/helpers/scoreLogic.js":
-/*!***********************************!*
+/*!***********************************!*\
   !*** ./src/helpers/scoreLogic.js ***!
   \***********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -230,7 +230,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/index.js":
-/*!**********************!*
+/*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -241,7 +241,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _pha
 /***/ }),
 
 /***/ "./src/js/gameOver.js":
-/*!****************************!*
+/*!****************************!*\
   !*** ./src/js/gameOver.js ***!
   \****************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -252,7 +252,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/js/sceneMain.js":
-/*!*****************************!*
+/*!*****************************!*\
   !*** ./src/js/sceneMain.js ***!
   \*****************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -263,7 +263,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/js/score.js":
-/*!*************************!*
+/*!*************************!*\
   !*** ./src/js/score.js ***!
   \*************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -274,18 +274,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ }),
 
 /***/ "./src/js/startScene.js":
-/*!******************************!*
+/*!******************************!*\
   !*** ./src/js/startScene.js ***!
   \******************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => /* binding */ StartScene\n/* harmony export */ });\n/* harmony import */ var _phaser_min__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../phaser.min */ \"./src/phaser.min.js\");\n/* harmony import */ var _phaser_min__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_phaser_min__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _assets_images_playButton_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../assets/images/playButton.png */ \"./assets/images/playButton.png\");\n/* harmony import */ var _assets_images_leadersBoardButton_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../assets/images/leadersBoardButton.png */ \"./assets/images/leadersBoardButton.png\");\n/* harmony import */ var _assets_audio_sndBtn_wav__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../assets/audio/sndBtn.wav */ \"./assets/audio/sndBtn.wav\");\n/* harmony import */ var _assets_images_baseBg_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../assets/images/baseBg.png */ \"./assets/images/baseBg.png\");\n\n\n\n\n\n\n\nclass StartScene extends (_phaser_min__WEBPACK_IMPORTED_MODULE_0___default().Scene) {\n  constructor() {\n    super({ key: 'StartScene' });\n  }\n\n  preload() {\n    // load our images and sounds\n    // this.load.images('key', path)\n    this.load.image('sprBtnPlay', _assets_images_playButton_png__WEBPACK_IMPORTED_MODULE_1__.default);\n    this.load.image('bgStart', _assets_images_baseBg_png__WEBPACK_IMPORTED_MODULE_4__.default);\n    this.load.image('ldBtn', _assets_images_leadersBoardButton_png__WEBPACK_IMPORTED_MODULE_2__.default);\n\n    this.load.audio('sndBtn', _assets_audio_sndBtn_wav__WEBPACK_IMPORTED_MODULE_3__.default);\n  }\n\n  create() {\n    this.sfx = {\n      btn: this.sound.add('sndBtn'),\n    };\n\n    this.add.image(260, 400, 'bgStart');\n\n    this.textTitle = this.add.text(\n      this.game.config.width * 0.5,\n      64,\n      'Space Wars',\n      {\n        fontFamily: 'monospace',\n        fontSize: 32,\n        align: 'center',\n      },\n    );\n    this.textTitle.setOrigin(0.5);\n\n    this.btnPlay = this.add.sprite(\n      this.game.config.width * 0.5,\n      this.game.config.height * 0.5,\n      'sprBtnPlay',\n    );\n    this.btnPlay.setInteractive();\n\n    this.btnPlay.on('pointerover', () => {\n      this.sfx.btn.play();\n    }, this);\n\n    this.btnPlay.on('pointerdown', () => {\n      this.sfx.btn.play();\n      this.scene.start('SceneMain');\n    }, this);\n\n\n    this.leaderBoard = this.add.sprite(\n      this.game.config.width * 0.5,\n      this.game.config.height * 0.6,\n      'ldBtn',\n    );\n    this.leaderBoard.setInteractive();\n\n    this.leaderBoard.on('pointerover', () => {\n      this.sfx.btn.play();\n    }, this);\n\n\n    this.leaderBoard.on('pointerdown', () => {\n      this.sfx.btn.play();\n      this.scene.start('Score');\n    }, this);\n\n    const style = {\n      fontFamily: 'monospace',\n      fontSize: 16,\n      color: 'grey',\n      align: 'center',\n    };\n    const instruction1 = 'Use A and D to move your plane left or right.';\n    const instruction2 = 'Use Space Bar to shoot.';\n    const xPos = this.game.config.width * 0.5;\n    const yPos = this.game.config.height - 40;\n    this.instructions1 = this.add.text(xPos, yPos, instruction1, style);\n    this.instructions1.setOrigin(0.5);\n    this.instructions2 = this.add.text(xPos, yPos + 20, instruction2, style);\n    this.instructions2.setOrigin(0.5);\n  }\n}\n\n\n//# sourceURL=webpack://Shooter-Game/./src/js/startScene.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => /* binding */ StartScene\n/* harmony export */ });\n/* harmony import */ var _phaser_min__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../phaser.min */ \"./src/phaser.min.js\");\n/* harmony import */ var _phaser_min__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_phaser_min__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _assets_images_playButton_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../assets/images/playButton.png */ \"./assets/images/playButton.png\");\n/* harmony import */ var _assets_images_leadersBoardButton_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../assets/images/leadersBoardButton.png */ \"./assets/images/leadersBoardButton.png\");\n/* harmony import */ var _assets_audio_sndBtn_wav__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../assets/audio/sndBtn.wav */ \"./assets/audio/sndBtn.wav\");\n/* harmony import */ var _assets_images_baseBg_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../assets/images/baseBg.png */ \"./assets/images/baseBg.png\");\n\n\n\n\n\n\nclass StartScene extends (_phaser_min__WEBPACK_IMPORTED_MODULE_0___default().Scene) {\n  constructor() {\n    super({ key: 'StartScene' });\n  }\n\n  preload() {\n    this.load.image('sprBtnPlay', _assets_images_playButton_png__WEBPACK_IMPORTED_MODULE_1__.default);\n    this.load.image('bgStart', _assets_images_baseBg_png__WEBPACK_IMPORTED_MODULE_4__.default);\n    this.load.image('ldBtn', _assets_images_leadersBoardButton_png__WEBPACK_IMPORTED_MODULE_2__.default);\n\n    this.load.audio('sndBtn', _assets_audio_sndBtn_wav__WEBPACK_IMPORTED_MODULE_3__.default);\n  }\n\n  create() {\n    this.sfx = {\n      btn: this.sound.add('sndBtn'),\n    };\n\n    this.add.image(260, 400, 'bgStart');\n\n    this.textTitle = this.add.text(\n      this.game.config.width * 0.5,\n      64,\n      \"Space Wars\",\n      {\n        fontFamily: 'monospace',\n        fontSize: 32,\n        align: 'center',\n      },\n    );\n    this.textTitle.setOrigin(0.5);\n\n    this.btnPlay = this.add.sprite(\n      this.game.config.width * 0.5,\n      this.game.config.height * 0.5,\n      'sprBtnPlay',\n    );\n    this.btnPlay.setInteractive();\n\n    this.btnPlay.on('pointerover', () => {\n      this.sfx.btn.play();\n    }, this);\n\n    this.btnPlay.on('pointerdown', () => {\n      this.sfx.btn.play();\n      this.scene.start('SceneMain');\n    }, this);\n\n\n    this.leaderBoard = this.add.sprite(\n      this.game.config.width * 0.5,\n      this.game.config.height * 0.6,\n      'ldBtn',\n    );\n    this.leaderBoard.setInteractive();\n\n    this.leaderBoard.on('pointerover', () => {\n      this.sfx.btn.play();\n    }, this);\n\n\n    this.leaderBoard.on('pointerdown', () => {\n      this.sfx.btn.play();\n      this.scene.start('Score');\n    }, this);\n\n    const style = {\n      fontFamily: 'monospace',\n      fontSize: 16,\n      color: '#aaf',\n      align: 'center',\n    };\n    const instruction1 = 'Use A and D to move your plane left or right.';\n    const instruction2 = 'Use Space Bar to shoot.';\n    const xPos = this.game.config.width * 0.5;\n    const yPos = this.game.config.height - 40;\n    this.instructions1 = this.add.text(xPos, yPos, instruction1, style);\n    this.instructions1.setOrigin(0.5);\n    this.instructions2 = this.add.text(xPos, yPos + 20, instruction2, style);\n    this.instructions2.setOrigin(0.5);\n  }\n}\n\n\n//# sourceURL=webpack://Shooter-Game/./src/js/startScene.js?");
 
 /***/ }),
 
 /***/ "./src/phaser.min.js":
-/*!***************************!*
+/*!***************************!*\
   !*** ./src/phaser.min.js ***!
   \***************************/
 /***/ ((module) => {
