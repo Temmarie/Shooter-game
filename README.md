@@ -144,7 +144,11 @@ Contributions, issues and feature requests are welcome! Start by:
 
 ## Show your support
 
+<<<<<<< HEAD
 Give a ⭐️ if you like this project!!!
+=======
+Give a ⭐️ if you like this project!!
+>>>>>>> b145f9bc662c12bb2575ce6d42753fc39b09cfcd
 
 ## Acknowledgements
 - Special thanks to [Microverse](https://www.microverse.
