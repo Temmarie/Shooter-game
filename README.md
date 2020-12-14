@@ -148,7 +148,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgements
 - Special thanks to [Microverse](https://www.microverse.
-- I also want to thank my wonderful friend who helped me quite a lot with this project.
+- I also want to thank my wonderful friend who helped me quite a lot with this project...
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
