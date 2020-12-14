@@ -144,7 +144,7 @@ Contributions, issues and feature requests are welcome! Start by:
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project!!
 
 ## Acknowledgements
 - Special thanks to [Microverse](https://www.microverse.
