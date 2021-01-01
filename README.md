@@ -24,21 +24,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/temmarie/todo-list-app/feature">
+  <a href="https://github.com/Temmarie/Shooter-game/tree/feature">
     <img src="https://github.com/Temmarie/Todo-list-app/blob/feature/src/images/JS.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Todo List</h3>
+  <h3 align="center">Shooter Game</h3>
 
   <p align="center">
-    This is the todolist app Project from the Javascript section of the Microverse curriculum.
+    This is a Shooter game from the Javascript section of the Microverse curriculum.
     <br />
-    <a href="https://github.com/Temmarie/Todo-List-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Temmarie/Shooter-game"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Temmarie/Todo-List-App/issues">Report Bug</a>
+    <a href="https://github.com/Temmarie/Shooter-game/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Temmarie/Todo-List-App/issues">Request Feature</a>
+    <a href="https://github.com/Temmarie/Shooter-game/issues">Request Feature</a>
   </p>
 </p>
 
@@ -46,39 +46,84 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
+* [Game Design](#game-design)
+* [Getting Started](#getting-started)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Tests](#tests)
 * [Contact](#Authors)
+* [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
-* [How it works](#How-it-works)
 
-# Todo-List-App Testing
-A simple todo list app tested with Jest.
-The aim of this project was to learn how to test JavaScript modules/functions.
+# Shooter Games
+An RPG Shooter Game built with JavaScript and tested with Jest.
 
-![image](https://github.com/Temmarie/Todo-List-App/blob/feature/src/images/todoscreen.png)
+# [Live Link](https://laughing-lumiere-bd9878.netlify.app/)
 
 
 ## Built With
 
-- Html,
-- CSS,
-- JavaScript
-- Bootstrap
-- Vscode
-- Eslint
+* [Phaser](http://phaser.io/)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [WebPack](https://webpack.js.org/)
+* [Jest](https://jestjs.io/docs/en/getting-started)
+
+<hr>
 
 
-### Setup
+## Game Design
+The Main Scene is built so that a user should kill as many enemy ships as possible before they kill him or invade his zone.
 
-To test the Library locally, you will need to clone the repository, navigate to it's containing directory, and run the following commands:
+<img src="./assets/images/sprPlayer.png" alt="Logo" width="30" height="30"> <br>
+This is the main character ship, and he has 3 extra lives to kill as many enemy ships as possible.
+<br>
+<br>
 
+<img src="./assets/images/sprEnemy0.png" alt="Logo" width="30" height="30"> <br>
+This are the enemy ships trying to destroy you at all cost.
 
+<br>
+<br>
 
-Clone the repository and follow the steps to run the app.
+<img src="./assets/images/sprLaserPlayer.png" alt="Logo" width="5" height="30"> &nbsp;&nbsp; Player laser used to destroy enemy ships.
+
+<br>
+<br>
+
+<img src="./assets/images/sprLaserEnemy.png" alt="Logo" width="5" height="30"> &nbsp;&nbsp; Enemy laser used to destroy main character's ship.
+
+<br>
+<br>
+
+<img src="./assets/images/sprShieldTile.png" alt="Logo" width="10" height="10"> &nbsp;&nbsp; Tiles used to build main character's shield. 
+<hr>
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+- Make sure your machine has `node` and `npm` packages installed.
+
+### Installation
+ 
+1. Clone the repo
+```sh
+git clone https://github.com/Temmarie/Shooter-Game.git
 ```
- git clone https://github.com/Temmarie/Todo-list-app.git
+2. Open with your favorite text editor.
+3. run `npm install` to install all dependencies required for the app.
+4. If you have a live server extension installed, open the `index.html` file in the `dist` folder with the live server, if not install a live server extension and do as above.
+5. Play the game and enjoy!!!!
+6. NB: In the GameOver screen, the letters 'A' and 'D' used for the navigation will not work when filling the form.
 
-```
+
+### Tests
+- Run `yarn test` to see all available tests associated with this project.
+
 
 ## Author
 👤 **Author**
@@ -101,17 +146,22 @@ Contributions, issues and feature requests are welcome! Start by:
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project!!
+
+## Acknowledgements
+- Special thanks to [Microverse](https://www.microverse.
+- I also want to thank my wonderful friend who helped me quite a lot with this project.
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/temmarie/todo-list-app.svg?style=flat-square
-[contributors-url]: https://github.com/temmarie/todo-list-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/temmarie/todo-list-app.svg?style=flat-square
-[forks-url]: https://github.com/temmarie/todo-list-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/temmarie/todo-list-app.svg?style=flat-square
-[stars-url]: https://github.com/temmarie/todo-list-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/temmarie/todo-list-app.svg?style=flat-square
-[issues-url]: https://github.com/temmarie/todo-list-app/issues
+[contributors-shield]: https://img.shields.io/github/contributors/temmarie/shooter-game.svg?style=flat-square
+[contributors-url]: https://github.com/temmarie/shooter-game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/temmarie/shooter-game.svg?style=flat-square
+[forks-url]: https://github.com/temmarie/shooter-game/network/members
+[stars-shield]: https://img.shields.io/github/stars/temmarie/shooter-game.svg?style=flat-square
+[stars-url]: https://github.com/temmarie/shooter-game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/temmarie/shooter-game.svg?style=flat-square
+[issues-url]: https://github.com/temmarie/shooter-game/issues
 
 
